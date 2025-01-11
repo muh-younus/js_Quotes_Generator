@@ -99,3 +99,15 @@ body{
     margin: 5px;
     cursor: pointer;
 }
+
+
+.t-btn{
+
+    background: transparent;
+}
+.image{
+
+    width: 30px;
+    margin-right: 6px;
+    background: none;
+}
